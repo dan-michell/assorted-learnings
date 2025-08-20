@@ -1,7 +1,7 @@
-#include "chapter_one_quiz.h"
+#include "quiz_one.h" // Include related header file to enable compiler to catch errors
 #include <iostream>
 
-void chapter_one_quiz_challenge()
+void add_and_subtract()
 {
     // Take two integers. Print the result of adding and subtracting these.
     int x;
